@@ -1,4 +1,6 @@
 # Tsyap
+
+
 #14.05.18
 1. French section was updated
 2. P-s were fixed
@@ -6,12 +8,5 @@
 4. Special courses buttons were added
 
 #23.05.18
-<!-- 
-<br><B>Артамонова Арина Игоревна</B> 
-Специалист
-artamonova@bsuir.by
-ауд. 309-2  
-тел. 293-22-61
--->
-
-Assosiated photo was deleted
+1. Center's stuff was updated
+2. Assosiated photo was deleted

@@ -9,4 +9,12 @@
 
 #23.05.18
 1. Center's stuff was updated
+<!-- 
+<br><B>Артамонова Арина Игоревна</B> 
+Специалист
+artamonova@bsuir.by
+ауд. 309-2  
+тел. 293-22-61
+-->
+
 2. Assosiated photo was deleted
